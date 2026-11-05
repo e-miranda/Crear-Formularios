@@ -1,0 +1,6 @@
+{
+  "name": "FormCraft - Dynamic Form Builder",
+  "description": "Plataforma interactiva de creación de formularios dinámicos con arrastrar y soltar, gestión de respuestas, exportación a Excel/PDF, roles estilo JotForm y arquitectura MySQL/Laravel 13.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
